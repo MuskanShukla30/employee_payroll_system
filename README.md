@@ -274,14 +274,6 @@ Contributions, bug fixes, and feature requests are welcome!
 4. **Push** to your branch — `git push origin feature/your-feature`
 5. Open a **Pull Request** describing your changes
 
-Please follow [PEP 8](https://peps.python.org/pep-0008/) conventions and include inline comments for any new calculation logic.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <p align="center">
