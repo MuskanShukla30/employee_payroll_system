@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuskanShukla30/employee_payroll_system/main/logo.png" alt="Employee Payroll System Logo" width="120" />
-</p>
-
-<h1 align="center">Employee Payroll System</h1>
+<h1 align="center">💼 Employee Payroll System</h1>
 
 <p align="center">
   <strong>A lightweight, browser-based payroll management application built with Flask — automating salary computation, allowance breakdowns, and employee record management entirely on your local machine.</strong>
